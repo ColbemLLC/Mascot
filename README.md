@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" width="96" alt="Colbem Engine logo" />
+  <img src="/public/logo.png" width="96" alt="Colbem Engine logo" />
 </p>
 
 <h1 align="center">Colbem Engine</h1>
